@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=#ffeaea&height=150&section=header&text=0101010&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome%20My%20GitHub!&fontSize=50&fontColor=ea9999)
 
 
   
@@ -31,5 +31,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee05&layout=compact)](https://github.com/sjlee05/github-readme-stats)
   
-[![sjlee05's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sjlee05&color=dark)]
 </div>
